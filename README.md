@@ -7,7 +7,7 @@ Duarante mis estudios he tenido que desarrollar documentación para diferentes p
 A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando el repositorio con más documentación. Te presento a continuación los documentos que puedes encontrar en este repositorio.
 
 
-## Artículos sobre sistemas informáticos  <a name="Articulos_sobre_sistemas_informaticos"></a>
+## Artículos sobre sistemas informáticos
 Los siguientes textos son documentos técnicos con el objetivo de guiar al usuario desde el punto 0 hasta el final en cada tarea, todas los detalles aparecen explicados.
 
 - 💡 [Aprende a montar un WordPress en Docker](sistemas/Documentacion_tecnica_de_una_aplicacion_con_contenedores/Documentacion_tecnica_de_una_aplicacion_con_contenedores.md)
@@ -19,7 +19,7 @@ Los siguientes textos son documentos técnicos con el objetivo de guiar al usuar
 - 💡 [Aprende como montar una arquitectura web con balanceo de carga y alta disponibilidad](sistemas/Documentacion_tecnica_de_una_arquitectura_web_con_balanceo_de_carga_y_alta_disponibilidad/Documentacion_tecnica_de_una_arquitectura_web_con_balanceo_de_carga_y_alta_disponibilidad.md)
 
 
-## Artículos sobre ciberseguridad <a name="Articulos_sobre_ciberseguridad"></a>
+## Artículos sobre ciberseguridad
 
 ⚠️ No me hago responsable del uso que se haga de estas tecnologías, la responsabilidad se delega en la persona que haga un uso indebido de ellas. Esta información tiene caracter informativo y preventivo para concienciar de la importancia de la seguridad digital ⚠️
 
@@ -40,7 +40,7 @@ Los siguientes textos son documentos técnicos con el objetivo de guiar al usuar
 
 - 💡 [Proyecto de explotación de una vulnerabilidad](ciberseguridad/Explotacion_de_una_vulnerabilidad_DEMO/Explotacion_de_una_vulnerabilidad_DEMO.md)
 
-## Artículos sobre IoT <a name="Articulos_sobre_IoT"></a>
+## Artículos sobre IoT
 Sobre IoT lamentablemente no tengo apenas documentación, pero sí que te puedo enseñar sus usos a través del proyecto que realicé con mi compañero de clase Jorge El Busto. El proyecto es [DeskMart](IoT/Proyecto_deskmart_DEMO/deskmart.md).
 
 

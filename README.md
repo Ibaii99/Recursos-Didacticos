@@ -7,9 +7,9 @@ Duarante mis estudios he tenido que desarrollar documentación para diferentes p
 A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando el repositorio con más documentación. Te presento a continuación los documentos que puedes encontrar en este repositorio:
 
 ##### Table of Contents
-1. [Artículos sobre sistemas informáticos](#Articulos_sobre_sistemas_informaticos)
-2. [Artículos sobre ciberseguridad](#Articulos_sobre_ciberseguridad)
-3. [Artículos sobre IoT](#Articulos_sobre_IoT)
+1. [Artículos sobre sistemas informáticos](#Articulos sobre sistemas informaticos)
+2. [Artículos sobre ciberseguridad](#Artículos sobre ciberseguridad)
+3. [Artículos sobre IoT](#Articulos sobre IoT)
 
 
 ## Artículos sobre sistemas informáticos  <a name="Articulos_sobre_sistemas_informaticos"></a>

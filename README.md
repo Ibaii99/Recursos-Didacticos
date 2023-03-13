@@ -4,7 +4,12 @@
 
 Duarante mis estudios he tenido que desarrollar documentación para diferentes prácticas y he tomado la decisión de recopilarla y ponerla a disposición de todo el mundo. Este, es un proyecto para reunir documentación en español sobre diferentes cuestiones tecnológicas. De esta manera, quiero democratizar el uso de la tecnología y eliminar la barrera de idioma que supone el inglés a muchas personas.
 
-A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando el repositorio con más documentación. Te presento a continuación los documentos que puedes encontrar en este repositorio.
+A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando el repositorio con más documentación. Te presento a continuación los documentos que puedes encontrar en este repositorio. Me reservo el derecho de usar esta información en mis investigaciones y permito su uso (sujeto a la licencia definida en este repositorio).
+
+## Artículos sobre Procesamiento del Lenguaje Natural (PLN)
+Los siguientes documentos son resúmenes de artículos, recopilaciones de información,y diferentes recursos que voy generando durante el desarrollo de mi tesis. En los artículos aparecen siempre las fuentes originales de la información.   
+
+- 💡 [Métodos de evaluaci](pln/busqueda_y_recuperacion_de_informacion/modelos_de_topicos/evaluacion/TMEval.pdf)
 
 
 ## Artículos sobre sistemas informáticos

@@ -9,7 +9,7 @@ A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando 
 ## Artículos sobre Procesamiento del Lenguaje Natural (PLN)
 Los siguientes documentos son resúmenes de artículos, recopilaciones de información,y diferentes recursos que voy generando durante el desarrollo de mi tesis. En los artículos aparecen siempre las fuentes originales de la información.   
 
-- 💡 [Métodos de evaluaci](pln/busqueda_y_recuperacion_de_informacion/modelos_de_topicos/evaluacion/TMEval.pdf)
+- 💡 [Métodos de evaluación de modelos de tópicos](pln/busqueda_y_recuperacion_de_informacion/modelos_de_topicos/evaluacion/TMEval.pdf)
 
 
 ## Artículos sobre sistemas informáticos

@@ -6,12 +6,6 @@ Duarante mis estudios he tenido que desarrollar documentación para diferentes p
 
 A medida que logre sacar tiempo y avance en mis investigaciones iré aumentando el repositorio con más documentación. Te presento a continuación los documentos que puedes encontrar en este repositorio. Me reservo el derecho de usar esta información en mis investigaciones y permito su uso (sujeto a la licencia definida en este repositorio).
 
-## Artículos sobre Procesamiento del Lenguaje Natural (PLN)
-Los siguientes documentos son resúmenes de artículos, recopilaciones de información,y diferentes recursos que voy generando durante el desarrollo de mi tesis. En los artículos aparecen siempre las fuentes originales de la información.   
-
-- 💡 [Métodos de evaluación de modelos de tópicos](pln/busqueda_y_recuperacion_de_informacion/modelos_de_topicos/evaluacion/TMEval.pdf)
-
-
 ## Artículos sobre sistemas informáticos
 Los siguientes textos son documentos técnicos con el objetivo de guiar al usuario desde el punto 0 hasta el final en cada tarea, todas los detalles aparecen explicados.
 
